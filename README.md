@@ -1,8 +1,6 @@
 # InvestWise AI
 
-An AI-powered investment calculator built with Python and Streamlit to help users estimate future wealth using SIP, compound interest, and lump sum investment calculations.
-
----
+An AI-powered investment calculator built with Python and Streamlit for SIP planning, compound interest analysis, lump sum investments, and long-term wealth forecasting.
 
 ## Features
 
@@ -10,22 +8,18 @@ An AI-powered investment calculator built with Python and Streamlit to help user
 - 💰 Compound Interest Calculator
 - 💵 Lump Sum Investment Calculator
 - 📊 Investment Growth Charts
-- 📅 Year-wise Wealth Projection
-- 📉 Total Investment vs Returns
+- 📅 Investment Timeline
+- 🎯 Financial Goal Planner
 - 📤 CSV Export
-- ⚡ Fast, Responsive Streamlit Interface
+- ⚡ Interactive Streamlit Dashboard
 
----
-
-## Tech Stack
+## Technology Stack
 
 - Python
 - Streamlit
 - Pandas
 - NumPy
 - Plotly
-
----
 
 ## Project Structure
 
@@ -44,39 +38,27 @@ InvestWise-AI/
 └── .github/
 ```
 
----
-
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/InvestWise-AI.git
-
-cd InvestWise-AI
-
 pip install -r requirements.txt
-
 streamlit run app.py
 ```
 
----
+## Future Features
 
-## Future Improvements
-
-- Goal-based Investment Planning
-- Inflation Calculator
+- Portfolio Projection
+- Inflation Adjusted Returns
+- SWP Calculator
+- Goal-Based Investment Planning
 - Retirement Planning
-- Mutual Fund Comparison
 - Tax Estimation
 - AI Investment Insights
 
----
-
 ## License
 
-This project is licensed under the MIT License.
-
----
+This project is released under the MIT License.
 
 ## Disclaimer
 
-This
+This application is intended for educational and informational purposes only. It does not provide financial, investment, or tax advice. Always consult a qualified financial professional before making investment decisions.
